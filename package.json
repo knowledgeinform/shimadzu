@@ -1,0 +1,20 @@
+{
+  "name": "shimadzu",
+  "version": "1.0.0",
+  "description": "Node api for shimadzu ftir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.jhuapl.edu/jonesjp1/shimadzu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "NONE",
+  "dependencies": {
+    "fft.js": "^4.0.4",
+    "usb": "^2.4.1"
+  }
+}
